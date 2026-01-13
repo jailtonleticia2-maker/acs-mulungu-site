@@ -1,0 +1,9 @@
+{
+  "appId": "com.acs.mulungu",
+  "appName": "ACS Mulungu",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

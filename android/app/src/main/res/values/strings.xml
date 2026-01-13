@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ACS Mulungu</string>
+    <string name="title_activity_main">ACS Mulungu</string>
+    <string name="package_name">com.acs.mulungu</string>
+    <string name="custom_url_scheme">com.acs.mulungu</string>
+</resources>
